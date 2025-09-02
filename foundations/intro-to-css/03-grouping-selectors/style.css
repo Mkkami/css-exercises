@@ -1,0 +1,15 @@
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    margin: 5px auto;
+}
+
+.click {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.noclick {
+    background-color: rgb(220, 220, 0);
+}
